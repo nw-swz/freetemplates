@@ -1,4 +1,4 @@
-# GDPR and ISO 27001 templates
+# GDPR, ISO 27001 and AI Act template kit
 
 The templates on this page are made by the people of ICT Institute. We use these templates in our training sessions and our advisory work. We decided to make our templates available to anyone with hardly any restrictions. 
 
